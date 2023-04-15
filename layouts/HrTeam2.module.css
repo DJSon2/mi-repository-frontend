@@ -1,0 +1,19 @@
+.doListTitle {
+    background-color: rgb(161, 159, 159);
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    width: 150px;
+    height: 75px;
+    border: solid 1px black;
+}
+
+.hrNav {
+    float: left;
+    border: solid 1px gray;
+    border-collapse: collapse;
+}
+
+.hrOutlet {
+    width: auto;
+}

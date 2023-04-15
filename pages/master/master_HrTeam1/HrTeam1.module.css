@@ -1,0 +1,41 @@
+.hr1Div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 850px;
+    height: 100%;
+    margin: 30px;
+    text-align: center;
+}
+
+.hr1Table{
+    width: 950px;
+    margin-top: 5%;
+}
+
+.hr1Table tr:hover { 
+    background-color: #F5F5F5; 
+}
+
+.hr1Table tr {
+    cursor: pointer;
+}
+
+.pagingBtn{
+    margin: 5px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.pagingBtn:hover{
+    cursor: pointer;
+    background-color: yellowgreen;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.input {
+    width: 700px; 
+    text-align: center;
+}

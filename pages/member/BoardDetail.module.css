@@ -1,0 +1,23 @@
+.imgDiv img {
+    width: 450px;
+    display: flex;
+}
+
+.body td{
+    width: 600px;
+    height: 30px;
+}
+
+.body input{
+    font-size: 15px;
+}
+
+.Title{
+    width: 500px;
+    height: 25px;
+}
+
+.content{
+    width: 500px;
+    height: 200px;
+}

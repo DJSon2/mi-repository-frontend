@@ -1,0 +1,25 @@
+/* .mypagefirst {
+    margin-left: 20px;
+    margin-top: 20px;
+} */
+
+.doListTitle {
+    background-color: rgb(161, 159, 159);
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    width: 150px;
+    height: 55px;
+    border: solid 1px black;
+}
+
+.mypageNav {
+    float: left;
+    border: solid 1px gray;
+    border-collapse: collapse;
+}
+
+.mypageOutlet {
+    width: auto;
+}

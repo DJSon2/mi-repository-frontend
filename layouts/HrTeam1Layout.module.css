@@ -1,0 +1,18 @@
+.listTitle {
+    background-color: lightgray;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    width: 150px;
+    height: 75px;
+}
+
+.hr1Nav {
+    float: left;
+    border-collapse: collapse;
+}
+
+.hr1Outlet {
+    width: auto;
+}

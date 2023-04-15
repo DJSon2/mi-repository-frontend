@@ -1,0 +1,36 @@
+#title_txt {
+    width: 100%;
+    padding-bottom:5px;
+    border: none;
+    font-size: 20px;
+    border-bottom: solid 1px #ababab;
+    font-weight: bold;
+}
+
+.imginput {
+    width: 300px;
+    
+}
+
+#title_txt:focus { outline : none; }
+
+#content_txt {
+    width: 100%;
+    resize: none;
+    height: 200px;
+    font-size: 100px;
+}
+
+#content_date{
+    width: 200px;
+    resize: none;
+}
+
+#content_member{
+    width: 200px;
+    resize: none;
+}
+
+.btn{
+    height: 30px;
+}

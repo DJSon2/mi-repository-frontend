@@ -1,0 +1,49 @@
+.extraworkTable {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 3%;
+    font-family: Arial, sans-serif;
+}
+
+.extraworkTable tr:hover { 
+    background-color: #F5F5F5; 
+}
+
+.pagingBtn{
+    margin: 5px;
+    margin-top: 15px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.pagingBtn:hover{
+    cursor: pointer;
+    background-color: yellowgreen;
+}
+
+.insertBtn {
+    position: relative;
+    position: static;
+    margin-top: 30px;
+    float: right;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #f9f9f9;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+td {
+    font-size: 0.8rem;
+    color: #666;
+}

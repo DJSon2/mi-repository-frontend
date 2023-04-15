@@ -1,0 +1,37 @@
+.write {
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 950px;
+    height: 100%;
+    margin: 30px;
+    text-align: center;
+}
+
+.table {
+    width: 950px;
+    margin-top: 5%;
+}
+
+#title_txt {
+    width: 100%;
+    padding-bottom:5px;
+    border: none;
+    font-size: 20px;
+    border-bottom: solid 1px #ababab;
+    font-weight: bold;
+}
+
+#title_txt:focus { outline : none; }
+
+#content_txt {
+    width: 100%;
+    resize: none;
+    height: 500px
+}
+
+#content_txt:focus { outline : none; }
+
+.btn {
+    margin-right: 10px;
+}

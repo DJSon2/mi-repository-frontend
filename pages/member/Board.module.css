@@ -1,0 +1,50 @@
+.boardDiv {
+    display: flex;
+    flex-wrap: wrap;
+    width: 850px;
+    height: 100%;
+    margin: 30px;
+    text-align: center;
+}
+
+.boardTable{
+    width: 950px;
+    margin-top: 5%;
+}
+
+.boardTable tr:hover { 
+    background-color: #F5F5F5; 
+}
+
+.boardTable tr {
+    cursor: pointer;
+}
+
+.pagingBtn{
+    margin: 5px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.pagingBtn:hover{
+    cursor: pointer;
+    background-color: yellowgreen;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #f9f9f9;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+td {
+    font-size: 0.8rem;
+    color: #666;
+}

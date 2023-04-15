@@ -1,0 +1,47 @@
+.backgroundDiv{
+    height: 100vh;
+    display: flex;
+    flex-direction: column; /*수평 정렬*/
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    background-color: #E8E8E8;
+}
+
+.registerDiv{    
+    height: 600px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column; /*수평 정렬*/
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 650px;
+    padding: 0;
+}
+
+.registerDiv input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 30px;
+    width: 250px;
+    text-indent: 10px;
+    font-size: medium;
+}
+
+.box1 {
+    float: left;
+    width: 200px;
+    height: 100px;
+    text-indent: 10px;
+    font-size: medium;
+}
+
+.box2 {
+    /* display: inline-block; */
+    float: right;
+    width: 200px;
+    height: 50px;
+    text-indent: 10px;
+    font-size: medium;
+}
